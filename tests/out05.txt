@@ -1,0 +1,19 @@
+1.
+Ball
+R = 12
+density = 18
+surface area = 1809.557
+1.
+Ball
+R = 12
+density = 12
+surface area = 1809.557
+2.
+Parallelepiped
+Edges: [12, 12, 12]
+Density = 6
+Surface area = 864.0003.
+Tetrahedron
+Edge = 12
+Density = 19
+Surface area = 20.785

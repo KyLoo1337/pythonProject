@@ -1,0 +1,15 @@
+1.
+Ball
+R = 198
+density = 156
+surface area = 492651.994
+3.
+Tetrahedron
+Edge = 61813
+Density = 65
+Surface area = 107063.257
+2.
+Parallelepiped
+Edges: [12, 45, 78]
+Density = 651
+Surface area = 9972.000
